@@ -1,0 +1,15 @@
+{
+  "name": "practicenodejs",
+  "version": "1.0.0",
+  "description": "in this repo i am going to practice the nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "expressjs": "^1.0.1"
+  }
+}
